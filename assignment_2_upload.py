@@ -1,6 +1,4 @@
 #Team of 2
-#Name:  Sagar Lakhia (1001123182)
-#Team Member : Abhitej Date (1001113870)
 #Course Number : CSE 6331-002
 #Lab Number : Programming Assignment 3
 #Description : Copy data to Cloud from website
