@@ -1,6 +1,5 @@
 #Team of 2
-#Name: Sagar Lakhia 
-#Team Member : Abhitej Date 
+
 #Course Number : CSE 6331-002
 #Lab Number : Programming Assignment 4
 
